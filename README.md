@@ -3,7 +3,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-667eea?style=for-the-badge&logo=github&logoColor=white)](https://nikhhh14.github.io/My-Personal-Portfolio/)
 ## 📱 Quick Links
-- 🌐 **Live Portfolio**: https://nikhitapattanshetti.github.io/nikhita-portfolio
+- 🌐 **Live Portfolio**: https://nikhhh14.github.io/My-Personal-Portfolio/
 - 💼 **LinkedIn**: [Nikhita Pattanshetti](https://www.linkedin.com/in/nikhita-pattanshetti-03827127b)
 - 🐙 **GitHub**: [Nikhhh14](https://github.com/Nikhhh14)
 - ✉️ **Email**: nikhitavpattanshetti@gmail.com
